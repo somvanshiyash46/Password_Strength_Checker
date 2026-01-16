@@ -165,12 +165,7 @@ Cybersecurity Student | Ethical Hacker | SOC Analyst Aspirant
 
 ---
 
-## ⭐ Support
 
-⭐ Star the repository if you find it useful
-🍴 Fork for improvements
-
-Happy hacking 🚀
 
 ```
 
