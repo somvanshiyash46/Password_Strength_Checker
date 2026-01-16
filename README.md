@@ -1,3 +1,4 @@
+)
 # 🔐 Password Strength Checker (Python)
 
 The **Password Strength Checker** is a Python-based cybersecurity tool that evaluates the strength of a password using multiple security checks such as length validation, character diversity, entropy calculation, dictionary attack prevention, and password reuse detection.
@@ -14,14 +15,14 @@ The **Password Strength Checker** is a Python-based cybersecurity tool that eval
 
 ## 📂 Project Structure
 
+
+
 Password-Strength-Checker/
 │
 ├── password_strength_checker.py
 ├── advanced.py
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -30,54 +31,53 @@ Copy code
 ### Step 1: Check Python Installation
 ```bash
 python --version
+
+
 Expected Output:
 
-nginx
-Copy code
 Python 3.x.x
+
 Step 2: Run Basic Password Checker
-bash
-Copy code
 python password_strength_checker.py
+
+
 Expected Input:
 
-css
-Copy code
 Enter a password to check its strength:
+
+
 Example Input:
 
-css
-Copy code
 Hello@123
+
+
 Expected Output:
 
-less
-Copy code
 Password strength: Strong
+
 Step 3: Run Advanced Password Checker
-bash
-Copy code
 python advanced.py
+
+
 Expected Input:
 
-css
-Copy code
 Enter a password to check its strength:
+
+
 Example Input:
 
-css
-Copy code
 P@ssw0rd123
+
+
 Expected Output:
 
-yaml
-Copy code
 Password strength: Strong
 Password entropy: 62.45 bits
 
 Suggestions to improve your password:
 - Password should not contain dictionary words.
 - Increase password length for better security.
+
 🔍 Password Strength Levels
 Score	Strength
 0 – 2	Very Weak
@@ -85,8 +85,8 @@ Score	Strength
 5 – 6	Moderate
 7 – 8	Strong
 9+	Very Strong
-
 🔐 Security Checks Implemented
+
 Minimum length validation
 
 Uppercase & lowercase letters
@@ -105,39 +105,39 @@ Password reuse prevention
 
 🧪 Sample Inputs & Outputs
 Weak Password
+
 Input:
 
-nginx
-Copy code
 password123
+
+
 Output:
 
-yaml
-Copy code
 Password strength: Weak
+
 Strong Password
+
 Input:
 
-css
-Copy code
 S3cur3@Pass!98
+
+
 Output:
 
-less
-Copy code
 Password strength: Very Strong
+
 👨‍💻 Author
+
 Yash Somvanshi (Hari)
 Cybersecurity Student | Ethical Hacker | SOC Analyst Aspirant
 
 ⭐ Support
+
 ⭐ Star the repository if you find it useful
 🍴 Fork for improvements
 
 Happy hacking 🚀
 
-yaml
-Copy code
 
 ---
 
