@@ -15,7 +15,7 @@ The **Password Strength Checker** is a Python-based cybersecurity tool that eval
 
 ## 📂 Project Structure
 
-```
+
 
 Password-Strength-Checker/
 │
@@ -23,7 +23,7 @@ Password-Strength-Checker/
 ├── advanced.py
 └── README.md
 
-````
+
 
 ---
 
@@ -160,7 +160,7 @@ Password strength: Very Strong
 
 ## 👨‍💻 Author
 
-**Yash Somvanshi (Hari)**
+**Yash Somvanshi**
 Cybersecurity Student | Ethical Hacker | SOC Analyst Aspirant
 
 ---
@@ -176,14 +176,4 @@ Happy hacking 🚀
 
 ---
 
-### ✅ That’s it.
-No editing, no thinking — **just copy & paste**.
 
-If you want:
-- 📄 **Project report**
-- 🎤 **Viva explanation**
-- 🧠 **Interview-ready explanation**
-- 🌐 **Web version**
-
-Say the word 😄
-```
